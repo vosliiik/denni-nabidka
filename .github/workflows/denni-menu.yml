@@ -1,0 +1,40 @@
+name: Aktualizace denního menu
+
+# Spouští se 3x ráno v pracovní dny (personál nahrává menu ručně,
+# proto to zkoušíme víckrát, kdyby to v 8:00 ještě nebylo hotové).
+# Časy jsou v UTC — 6:00/7:00/8:00 UTC = 8:00/9:00/10:00 letního času (CEST).
+on:
+  schedule:
+    - cron: '0 6 * * 1-5'
+    - cron: '0 7 * * 1-5'
+    - cron: '0 8 * * 1-5'
+  workflow_dispatch: {}   # umožní i ruční spuštění z GitHub záložky "Actions"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozitáře
+        uses: actions/checkout@v4
+
+      - name: Nastavení Pythonu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalace závislostí
+        run: pip install requests beautifulsoup4
+
+      - name: Stažení a zpracování denního menu
+        run: python scrape_denni_menu.py > denni-menu.json
+
+      - name: Uložení výsledku zpět do repozitáře
+        run: |
+          git config user.name "denni-menu-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add denni-menu.json
+          git diff --staged --quiet || git commit -m "Aktualizace denního menu $(date +'%Y-%m-%d %H:%M')"
+          git push
