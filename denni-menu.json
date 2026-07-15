@@ -1,34 +1,34 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "day_label": null,
   "soup": "Vepřový vývar s těstovinou a zeleninou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Hovězí burger s karamelizovanou cibulí, čedarem, zeleninou, domácí remuládou, hranolky",
-      "price": "189 Kč"
-    },
-    {
-      "name": "Kuřecí kousky, smetanovo-bazalková omáčka, gnocchi",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Kuřecí směs, bramboráčky",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Přírodní karbanátek, vařené brambory, tatarská omáčka",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Vinná klobása, bramborová kaše",
+      "name": "Zeleninový salát, smažený hermelín, domácí remuláda",
       "price": "175 Kč"
     },
     {
-      "name": "Smažený sýr, hranolky, tatarská omáčka",
+      "name": "Masové placičky v rajské omáčce, těstoviny",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Kuřecí steak se šunkou a sýrem, hranolky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Vepřový steak, fazolky s anglickou slaninou",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Boloňské špagety sypané sýrem",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažené žampiony, vařené brambory, tatarská omáčka",
       "price": "175 Kč"
     }
   ],
-  "updated_at": "14.07.2026 12:00",
+  "updated_at": "15.07.2026 10:12",
   "found": true
 }
