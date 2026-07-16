@@ -1,13 +1,18 @@
 name: Aktualizace denního menu
 
-# Spouští se 3x ráno v pracovní dny (personál nahrává menu ručně,
-# proto to zkoušíme víckrát, kdyby to v 8:00 ještě nebylo hotové).
-# Časy jsou v UTC — 6:00/7:00/8:00 UTC = 8:00/9:00/10:00 letního času (CEST).
+# Spouští se 4x brzy ráno v pracovní dny (personál nahrává menu ručně,
+# proto to zkoušíme víckrát, kdyby to ještě nebylo hotové).
+# POZOR: GitHub Actions negarantuje přesný čas spuštění — u naplánovaných
+# ("cron") úloh se běžně stává zpoždění v řádu desítek minut, ve výjimečných
+# případech i více, když je GitHub vytížený. Proto poslední pokus záměrně
+# míříme na 9:30 CEST, ne až na 11:00 — aby zbyla rezerva.
+# Časy jsou v UTC — 5:00/6:00/7:00/7:30 UTC = 7:00/8:00/9:00/9:30 letního času (CEST).
 on:
   schedule:
+    - cron: '0 5 * * 1-5'
     - cron: '0 6 * * 1-5'
     - cron: '0 7 * * 1-5'
-    - cron: '0 8 * * 1-5'
+    - cron: '30 7 * * 1-5'
   workflow_dispatch: {}   # umožní i ruční spuštění z GitHub záložky "Actions"
 
 permissions:
