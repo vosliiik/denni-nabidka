@@ -1,23 +1,15 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "day_label": null,
-  "soup": "Vepřový vývar s těstovinou a zeleninou",
+  "soup": "Kuřecí vývar s nudlemi",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Zeleninový salát, smažený hermelín, domácí remuláda",
-      "price": "175 Kč"
-    },
-    {
-      "name": "Masové placičky v rajské omáčce, těstoviny",
+      "name": "Pečená krkovička v česnekové šťávě, šťouchané brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí steak se šunkou a sýrem, hranolky",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Vepřový steak, fazolky s anglickou slaninou",
+      "name": "Vepřový plátek, čerstvé žampiony, rýže",
       "price": "180 Kč"
     },
     {
@@ -25,10 +17,14 @@
       "price": "180 Kč"
     },
     {
-      "name": "Smažené žampiony, vařené brambory, tatarská omáčka",
+      "name": "Drůbeží rizoto, sypané sýrem, kyselá okurka",
       "price": "175 Kč"
+    },
+    {
+      "name": "Sýrový špíz (hermelín, niva, eidam)  v trojobalu, vařené brambory, tatarská omáčka",
+      "price": "180 Kč"
     }
   ],
-  "updated_at": "15.07.2026 12:04",
+  "updated_at": "16.07.2026 10:15",
   "found": true
 }
