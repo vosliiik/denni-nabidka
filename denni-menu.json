@@ -1,34 +1,38 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "day_label": null,
   "soup": "Vepřový vývar s těstovinou a zeleninou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Zeleninový salát s tuňákem a vejci, opečený toust",
-      "price": "175 Kč"
+      "name": "Kulajda s hříbky",
+      "price": "47 Kč"
     },
     {
-      "name": "Svíčková na smetaně, houskový knedlík, citron, smetana, brusinky",
-      "price": "189 Kč"
-    },
-    {
-      "name": "Kuřecí směs, rýže",
+      "name": "Pečená krkovička v česnekové šťávě, bramborový knedlík, zelí",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřový plátek na žampionech, šťouchané brambory",
+      "name": "Vepřová játra s anglickou slaninou, bramboráčky",
       "price": "180 Kč"
     },
     {
-      "name": "Smažený vepřový řízek, domácí bramborový salát",
+      "name": "Kuřecí kousky se sušenými rajčaty, tagliatelle",
       "price": "180 Kč"
     },
     {
-      "name": "Smažený sýr, hranolky, tatarská omáčka",
+      "name": "Pečené marinované kuřecí paličky, bramborová kaše",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Domácí bramborový salát, kuřecí řízek",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažené kousky camembertu, vařené brambory, tatarská omáčka",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "23.07.2026 12:01",
+  "updated_at": "24.07.2026 09:25",
   "found": true
 }
