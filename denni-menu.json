@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "day_label": null,
-  "soup": "Vepřový vývar s těstovinou a zeleninou",
+  "soup": "Masový vývar se zeleninou těstovinou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Rozlítaný španělský ptáček, jasmínová rýže",
+      "name": "Kuřecí burger, čedar, zelenina, hranolky",
       "price": "189 Kč"
     },
     {
-      "name": "Pečený  pstruh, čerstvý tymián, vařené brambory, citrón",
-      "price": "185 Kč"
+      "name": "Vepřová panenka, přírodní přeliv, šťouchané brambory",
+      "price": "189 Kč"
     },
     {
-      "name": "Kuřecí prsíčko, čedarová omáčka, hranolky",
+      "name": "Vepřová kapsa, plněná anglickou slaninou a sýrem, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí směs, bramboráčky",
+      "name": "Těstoviny se šunkou v rokforové omáčce",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřová kotleta, omáčka ze zeleného pepře, šťouchané brambory",
+      "name": "Smažený sýr, vařené brambory, tatarská omáčka",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "27.07.2026 12:54",
+  "updated_at": "28.07.2026 09:33",
   "found": true
 }
