@@ -1,34 +1,34 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "day_label": null,
   "soup": "Kuřecí vývar s nudlemi",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Vepřová směs, bramboráčky",
+      "name": "Vepřová panenka, švestková omáčka, šťouchané brambory",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Hovězí maso ve štěpánské omáčce, houskový knedlík",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Kuřecí kapsa plněná šunkou a sýrem, hranolky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Vepřový guláš, bramboráčky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Vepřové výpečky, bramborový knedlík, zelí",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí kousky na pórku, rýže",
+      "name": "Pečené kuřecí uzené stehýnko, bramborová kaše, kyselá okurka",
       "price": "180 Kč"
-    },
-    {
-      "name": "Boloňské špagety sypané sýrem",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Smažené kuřecí řízek, vařené brambory, zeleninová obloha",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Těstovinový salát s kuřecím masem gyros",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Zeleninový salát, smažený camembert, domácí česneková remuláda",
-      "price": "175 Kč"
     }
   ],
-  "updated_at": "30.07.2026 12:00",
+  "updated_at": "31.07.2026 09:45",
   "found": true
 }
