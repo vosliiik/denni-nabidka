@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "day_label": null,
-  "soup": "Hovězí vývar s těstovinou a zeleninou",
+  "soup": "Kuřecí vývar s nudlemi",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Vepřové nudličky ve smetanovo-žampionové omáčce, těstoviny",
+      "name": "Pikantní masová směs (kuřecí a vepřové maso), bramboráčky",
       "price": "180 Kč"
     },
     {
-      "name": "Přírodní vepřový kotlet s vídeňskou cibulkou, hranolky",
+      "name": "Smažený vepřový řízek, domácí bramborový salát",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřová směs, bramboráčky",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Kuřecí řízek, míchaný zeleninový salát, domácí remuláda",
+      "name": "Kuřecí řízek, domácí bramborový salát",
       "price": "180 Kč"
     },
     {
-      "name": "Řecké gnocchi s olivami a sýrem",
+      "name": "Vinná klobása, vařené brambory, tatarská omáčka",
       "price": "180 Kč"
     },
     {
-      "name": "Zeleninové rizoto, sýr",
+      "name": "Čočka po ševcovsku, klobása, okurka",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Zeleninové rizoto, sýr, okurka",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "03.08.2026 12:55",
+  "updated_at": "04.08.2026 09:31",
   "found": true
 }
