@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "day_label": null,
-  "soup": "Kuřecí vývar s nudlemi",
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Pečený losos gorbuša na bylinkách, šťouchané brambory, citron",
-      "price": "190 Kč"
+      "name": "Hovězí maso na slanině, jasmínová rýže",
+      "price": "189 Kč"
     },
     {
-      "name": "Vepřové výpečky, bramborový knedlík, zelí",
+      "name": "Zapečený marinovaný vepřový kotlet, čedarová omáčka, zámecké brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Tortilla s kuřecím masem, zeleninou a domácím dipem",
+      "name": "Vepřová směs v bramborákové kapse",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Kuřecí nudličky s medovo-hořčičnou omáčkou, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Čevabčiči, vařené brambory, hořčice, cibulka",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Vinná klobása, bramborová kaše, okurkový salát",
+      "name": "Smažený zauzený sýr, vařené brambory, tatarská omáčka",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "05.08.2026 12:09",
+  "updated_at": "06.08.2026 09:33",
   "found": true
 }
