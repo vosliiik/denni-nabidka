@@ -1,9 +1,34 @@
 {
   "date": "2026-08-07",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "07.08.2026 08:04",
-  "found": false
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Zelná s klobásou",
+      "price": "45 Kč"
+    },
+    {
+      "name": "Vepřová panenka, pepřová omáčka, šťouchané brambory",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Kuřecí steak s nivou a brusinkami, hranolky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Katův šleh, bramboráčky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažený karbanátek, bramborová kaše, kyselá okurka",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažené kousky sýra, zelný salátek, tatarská omáčka",
+      "price": "180 Kč"
+    }
+  ],
+  "updated_at": "07.08.2026 09:17",
+  "found": true
 }
