@@ -1,9 +1,34 @@
 {
   "date": "2026-08-10",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "10.08.2026 08:06",
-  "found": false
+  "soup": "Masový vývar se zeleninou těstovinou",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Hráškový krém s krutony",
+      "price": "45 Kč"
+    },
+    {
+      "name": "Pikantní vepřové nudličky, bramboráčky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažená treska s brokolicí, vařené brambory, citron",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Kuřecí kousky ve smetanovosýrové omáčce, gnocchi",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Kuřecí karbanátek se sýrem, bramborová kaše, okurka",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažený sýr, hranolky, tatarská omáčka",
+      "price": "180 Kč"
+    }
+  ],
+  "updated_at": "10.08.2026 09:42",
+  "found": true
 }
