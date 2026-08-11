@@ -1,34 +1,30 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "day_label": null,
-  "soup": "Masový vývar se zeleninou těstovinou",
+  "soup": "Hovězí vývar s těstovinou a zeleninou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Hráškový krém s krutony",
-      "price": "45 Kč"
-    },
-    {
-      "name": "Pikantní vepřové nudličky, bramboráčky",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Smažená treska s brokolicí, vařené brambory, citron",
+      "name": "Burger s trhaným vepřovým masem, domácí remuládou, zeleninou, čedarem, hranolky",
       "price": "189 Kč"
     },
     {
-      "name": "Kuřecí kousky ve smetanovosýrové omáčce, gnocchi",
-      "price": "180 Kč"
+      "name": "Hovězí maso na barevném pepři, rýže",
+      "price": "189 Kč"
     },
     {
-      "name": "Kuřecí karbanátek se sýrem, bramborová kaše, okurka",
-      "price": "180 Kč"
+      "name": "Pečený pstruh na másle, vařené brambory, citron",
+      "price": "189 Kč"
     },
     {
-      "name": "Smažený sýr, hranolky, tatarská omáčka",
-      "price": "180 Kč"
+      "name": "Ražniči z vepřové panenky s anglickou slaninou, šťouchané brambory",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Cmunda po kaplicku",
+      "price": "185 Kč"
     }
   ],
-  "updated_at": "10.08.2026 10:58",
+  "updated_at": "11.08.2026 07:48",
   "found": true
 }
