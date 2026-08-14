@@ -1,9 +1,30 @@
 {
   "date": "2026-08-14",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "14.08.2026 08:07",
-  "found": false
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Hovězí burger se sýrem, karamelizovaná cibulka, zelenina, hranolky",
+      "price": "199 Kč"
+    },
+    {
+      "name": "Vepřová panenka, pepřová omáčka, šťouchané brambory",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Kuřecí Cordon bleu, hranolky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Kuřecí plátek zapečený se sýrem a rajčetem, vařené brambory",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Vepřové výpečky, bramborový knedlík, zelí",
+      "price": "180 Kč"
+    }
+  ],
+  "updated_at": "14.08.2026 09:25",
+  "found": true
 }
