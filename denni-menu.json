@@ -1,9 +1,30 @@
 {
   "date": "2026-08-17",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "17.08.2026 07:26",
-  "found": false
+  "soup": "Kuřecí vývar s nudlemi",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Medailonky z vepřové panenky, brusinková omáčka, hranolky",
+      "price": "195 Kč"
+    },
+    {
+      "name": "Pikantní vepřové nudličky, jasmínová rýže",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Vepřový kotlet, houbová omáčka, šťouchané brambory",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Kuřecí plátek, rokforová omáčka, opečené brambory",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažené uzené maso, bramborová kaše, okurka",
+      "price": "180 Kč"
+    }
+  ],
+  "updated_at": "17.08.2026 08:56",
+  "found": true
 }
