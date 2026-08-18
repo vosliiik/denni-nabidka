@@ -1,9 +1,38 @@
 {
   "date": "2026-08-18",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "18.08.2026 07:20",
-  "found": false
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Gulášová",
+      "price": "48 Kč"
+    },
+    {
+      "name": "Segedínský guláš, domácí houskový knedlík",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažený kuřecí řízek, bramborová kaše, okurka",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Vepřová játra na cibulce, jasmínová rýže",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažená niva, zeleninový salátek, tatarská omáčka",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Fozolky s klobásou, volským okem, chléb",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Plněná cuketa mletým masem, sypaná sýrem, vařené brambory",
+      "price": "180 Kč"
+    }
+  ],
+  "updated_at": "18.08.2026 08:43",
+  "found": true
 }
