@@ -1,9 +1,38 @@
 {
   "date": "2026-08-19",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "19.08.2026 07:20",
-  "found": false
+  "soup": "Hovězí vývar s těstovinou a zeleninou",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Hovězí maso v rajské omáčce, těstoviny",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Vepřová směs, bramboráčky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Vepřový plátek s omáčkou z anglické slaniny, šťouchané brambory",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Kuřecí maso na pórku, hranolky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Křenová omáčka s uzeným masem, houskový knedlík",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Zapečené brambory s uzeným masem, kyselá okurka",
+      "price": "175 Kč"
+    },
+    {
+      "name": "Smažený sýr, hranolky, tatarská omáčka",
+      "price": "185 Kč"
+    }
+  ],
+  "updated_at": "19.08.2026 08:44",
+  "found": true
 }
