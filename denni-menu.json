@@ -1,9 +1,34 @@
 {
   "date": "2026-08-21",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "21.08.2026 08:48",
-  "found": false
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Houbový krém s krutony",
+      "price": "45 Kč"
+    },
+    {
+      "name": "Hovězí nudličky na houbách, bramboráčky",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Medailonky z vepřové panenky, švestková omáčka, šťouchané brambory",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Kuřecí plátek, čedarová omáčka, opečené brambory",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Kuřecí směs, jasmínová rýže",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Cmunda po kaplicku",
+      "price": "185 Kč"
+    }
+  ],
+  "updated_at": "21.08.2026 09:43",
+  "found": true
 }
