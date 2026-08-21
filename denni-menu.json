@@ -1,34 +1,9 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "day_label": null,
-  "soup": "Kuřecí vývar s nudlemi",
-  "soup_price": "45 Kč",
-  "items": [
-    {
-      "name": "Pečené vepřové maso, bramborový knedlík, zelí",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Vepřový plátek s omáčkou z anglické slaniny, šťouchané brambory",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Smažený kuřecí řízek, bramborová kaše",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Těstoviny se šunkou ve smetanovo-sýrové omáčce",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Drůbeží rizoto, sypané sýrem, kyselá okurka",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Smažené kousky camembertu, zeleninový salátek, česnekový dip",
-      "price": "180 Kč"
-    }
-  ],
-  "updated_at": "20.08.2026 10:06",
-  "found": true
+  "soup": null,
+  "soup_price": null,
+  "items": [],
+  "updated_at": "21.08.2026 07:23",
+  "found": false
 }
