@@ -1,30 +1,9 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "day_label": null,
-  "soup": "Hovězí vývar s těstovinou a zeleninou",
-  "soup_price": "45 Kč",
-  "items": [
-    {
-      "name": "Pečené vepřové maso, bramborový a houskový knedlík, zelí",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Gnocchi se šunkou, sýrová omáčka",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Krůtí maso na pórku, hranolky",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Domácí bramborový salát, variace řízečků",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Smažený camembert, vařené brambory, tatarská omáčka",
-      "price": "180 Kč"
-    }
-  ],
-  "updated_at": "24.08.2026 10:11",
-  "found": true
+  "soup": null,
+  "soup_price": null,
+  "items": [],
+  "updated_at": "25.08.2026 07:23",
+  "found": false
 }
