@@ -1,9 +1,34 @@
 {
   "date": "2026-08-25",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "25.08.2026 07:23",
-  "found": false
+  "soup": "Hovězí vývar s těstovinou a zeleninou",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Zeleninový krém s krutony",
+      "price": "48 Kč"
+    },
+    {
+      "name": "Rozlítaný španělský ptáček, jasmínová rýže",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Hovězí maso v rajské omáčce, těstoviny",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Vepřová kotleta, omáčka ze zeleného pepře, šťouchané brambory",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Pečené kuřecí stehýnko, bramborová kaše",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Variace smažených sýrů ( hermelín, eidam), vařené brambory, tatarská omáčka",
+      "price": "180 Kč"
+    }
+  ],
+  "updated_at": "25.08.2026 08:49",
+  "found": true
 }
