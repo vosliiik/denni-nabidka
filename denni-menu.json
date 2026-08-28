@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "day_label": null,
-  "soup": "Vepřový vývar s těstovinou a zeleninou",
+  "soup": "Kuřecí vývar s nudlemi",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Frankfurtská",
-      "price": "45 Kč"
+      "name": "Rozlítaný španělský ptáček, jasmínová rýže",
+      "price": "189 Kč"
     },
     {
-      "name": "Pečená krkovička, houskový knedlík, zelí",
+      "name": "Pečené vepřové maso, bramborový knedlík, zelí",
       "price": "185 Kč"
     },
     {
-      "name": "Vepřová směs, bramboráčky",
+      "name": "Vepřové maso na pepři, bramboráčky",
       "price": "185 Kč"
     },
     {
-      "name": "Kuřecí plátek, bylinková omáčka, opečené brambory",
+      "name": "Kuřecí nudličky s medovo-hořčičnou omáčkou, hranolky",
       "price": "185 Kč"
     },
     {
-      "name": "Kuřecí steak s nivou a brusinkami, hranolky",
-      "price": "185 Kč"
+      "name": "Pečené marinované kuřecí paličky, šťouchané brambory, rajčatový salátek",
+      "price": "180 Kč"
     },
     {
-      "name": "Pečené marinované kuřecí paličky, bramborová kaše, červená řepa",
+      "name": "Smažený sýr, vařené brambory, tatarská omáčka",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "27.08.2026 20:22",
+  "updated_at": "28.08.2026 19:00",
   "found": true
 }
