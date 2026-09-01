@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "day_label": null,
-  "soup": "Hovězí vývar s těstovinou a zeleninou",
+  "soup": "Kuřecí vývar s nudlemi",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Žampionový krém s krutony",
-      "price": "45 Kč"
+      "name": "Dýňový krém s krutony",
+      "price": "49 Kč"
     },
     {
-      "name": "Medailonky z vepřové panenky, švestková omáčka, šťouchané brambory",
-      "price": "189 Kč"
-    },
-    {
-      "name": "Kuřecí plátek, rokforová omáčka, hranolky",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Vepřové nudličky s anglickou slaninou, rýže",
+      "name": "Kuřecí medailonky, brusinková omáčka, opečené brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Holandský řízek, bramborová kaše, okurka",
+      "name": "Vepřová směs, bramboráčky",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí řízek, míchaný zeleninový salát, domácí remuláda",
+      "name": "Gnocchi s kuřecím masem a špenátem",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Plněné žampiony masem, sypané sýrem, vařené brambory",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažený zauzený sýr, hranolky, tatarská omáčka",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "31.08.2026 17:18",
+  "updated_at": "01.09.2026 11:40",
   "found": true
 }
