@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "day_label": null,
   "soup": "Kuřecí vývar s nudlemi",
   "soup_price": "45 Kč",
@@ -9,26 +9,26 @@
       "price": "49 Kč"
     },
     {
-      "name": "Kuřecí medailonky, brusinková omáčka, opečené brambory",
+      "name": "Vepřový steak z krkovičky, přírodní přeliv, šťouchané brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřová směs, bramboráčky",
+      "name": "Masová směs(kuřecí a vepřové maso), v bramborákové kapse",
       "price": "180 Kč"
     },
     {
-      "name": "Gnocchi s kuřecím masem a špenátem",
+      "name": "Maďarské kuřecí nudličky, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Plněné žampiony masem, sypané sýrem, vařené brambory",
-      "price": "180 Kč"
+      "name": "Smažený květák, vařené brambory, tatarská omáčka",
+      "price": "175 Kč"
     },
     {
-      "name": "Smažený zauzený sýr, hranolky, tatarská omáčka",
-      "price": "180 Kč"
+      "name": "Smažený čedar, vařené brambory, tatarská omáčka",
+      "price": "175 Kč"
     }
   ],
-  "updated_at": "01.09.2026 14:41",
+  "updated_at": "02.09.2026 11:11",
   "found": true
 }
