@@ -1,30 +1,34 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "day_label": null,
-  "soup": "Hovězí vývar s těstovinou a zeleninou",
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Hovězí steak na zelených fazolkách s anglickou slaninou",
-      "price": "319 Kč"
+      "name": "Zelná s klobásou",
+      "price": "45 Kč"
     },
     {
-      "name": "Medailonky z vepřové panenky, míchaný zeleninový salát, domácí remuláda",
-      "price": "187 Kč"
-    },
-    {
-      "name": "Kuřecí kapsa plněná šunkou a sýrem, šťouchané brambory",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Vepřové výpečky, bramborový knedlík, zelí",
+      "name": "Segedínský guláš, domácí houskový knedlík",
       "price": "180 Kč"
     },
     {
-      "name": "Smažený květák, vařené brambory, tatarská omáčka",
-      "price": "175 Kč"
+      "name": "Vepřový steak s volským okem, cibulové kroužky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Kuřecí špíz s anglickou slaninou, paprikou, cibulí, vařené brambory",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Kuřecí steak s mozzarellou a rajčaty, hranolky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažený kuřecí řízek, vařené brambory, kyselá okurka",
+      "price": "180 Kč"
     }
   ],
-  "updated_at": "03.09.2026 14:13",
+  "updated_at": "04.09.2026 11:12",
   "found": true
 }
