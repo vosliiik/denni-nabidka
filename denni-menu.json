@@ -1,30 +1,34 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "day_label": null,
-  "soup": "Vepřový vývar s těstovinou a zeleninou",
-  "soup_price": "45 Kč",
+  "soup": null,
+  "soup_price": null,
   "items": [
     {
-      "name": "Kuřecí steak s nivou a brusinkami, šťouchané brambory",
-      "price": "185 Kč"
+      "name": "Domácí bramboračka",
+      "price": "45 Kč"
+    },
+    {
+      "name": "Španělský hovězí ptáček, rýže",
+      "price": "189 Kč"
     },
     {
       "name": "Krůtí kousky s medovo-hořčičnou omáčkou, opečené brambory",
       "price": "185 Kč"
     },
     {
-      "name": "Domácí plněné bramborové knedlíky uzeným masem, zelí, cibulka",
+      "name": "Kuřecí steak se šunkou, broskví a sýrem, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Pečené kuřecí stehýnko, vařené brambory, červená řepa",
+      "name": "Kuřecí čína, batátové hranolky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažené kuřecí stehýnko, bramborová kaše",
       "price": "175 Kč"
-    },
-    {
-      "name": "Smažený vepřový řízek, hranolky",
-      "price": "180 Kč"
     }
   ],
-  "updated_at": "09.09.2026 14:26",
+  "updated_at": "10.09.2026 11:17",
   "found": true
 }
