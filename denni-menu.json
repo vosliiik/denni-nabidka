@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "day_label": null,
   "soup": null,
   "soup_price": null,
@@ -9,26 +9,30 @@
       "price": "45 Kč"
     },
     {
-      "name": "Španělský hovězí ptáček, rýže",
+      "name": "Pórkový krém s krutony",
+      "price": "45 Kč"
+    },
+    {
+      "name": "Hovězí  Stroganov, rýže",
       "price": "189 Kč"
     },
     {
-      "name": "Krůtí kousky s medovo-hořčičnou omáčkou, opečené brambory",
-      "price": "185 Kč"
+      "name": "Medailonky z vepřové panenky, lišková omáčka, šťouchané brambory",
+      "price": "189 Kč"
     },
     {
-      "name": "Kuřecí steak se šunkou, broskví a sýrem, hranolky",
-      "price": "180 Kč"
+      "name": "Cmunda po kaplicku",
+      "price": "187 Kč"
     },
     {
       "name": "Kuřecí čína, batátové hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Smažené kuřecí stehýnko, bramborová kaše",
-      "price": "175 Kč"
+      "name": "Smažená niva, vařené brambory, tatarská omáčka",
+      "price": "179 Kč"
     }
   ],
-  "updated_at": "10.09.2026 14:20",
+  "updated_at": "11.09.2026 11:16",
   "found": true
 }
