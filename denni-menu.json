@@ -1,34 +1,30 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "day_label": null,
-  "soup": "Kuřecí vývar s nudlemi",
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Květákový krém",
-      "price": "45 Kč"
+      "name": "Hovězí burger s  čedarem, zeleninou, domácí remuládou, hranolky",
+      "price": "195 Kč"
     },
     {
-      "name": "Medailonky z vepřové panenky, rokforová omáčka, brusinky, šťouchané brambory",
+      "name": "Hovězí nudličky na zeleném pepři, bramboráčky",
       "price": "189 Kč"
     },
     {
-      "name": "Vepřové výpečky, houskový knedlík, zelí",
+      "name": "Marinovaná vepřová kotleta v medovo-hořčičné omáčce, opečené brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Smažené krůtí řízečky, bramborová kaše, okurka",
-      "price": "180 Kč"
+      "name": "Drůbeží rizoto, sypané sýrem, kyselá okurka",
+      "price": "175 Kč"
     },
     {
-      "name": "Přírodní vepřový steak, zelené fazolky s anglickou slaninou",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Kuřecí plátek zapečený se sýrem a rajčetem, hranolky",
+      "name": "Smažený sýr, vařené brambory, tatarská omáčka",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "16.09.2026 14:46",
+  "updated_at": "17.09.2026 11:44",
   "found": true
 }
