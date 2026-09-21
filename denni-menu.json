@@ -1,34 +1,30 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-21",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
+  "soup": "Kachní vývar s masem a nudlemi",
+  "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Zeleninový krém",
-      "price": "45 Kč"
+      "name": "Cmunda po kaplicku",
+      "price": "187 Kč"
     },
     {
-      "name": "Pečený pstruh na másle, vařené brambory, citron",
-      "price": "189 Kč"
-    },
-    {
-      "name": "Vepřové nudličky po lesnicku, bramboráčky",
+      "name": "Vepřový steak, čedarová omáčka, opečené brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí steak s mozzarellou a rajčaty, hranolky",
+      "name": "Kuřecí kousky, bazalková omáčka, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Pikantní marinovaná krkovička, šťouchané brambory",
+      "name": "Tortilla s kuřecím masem, zeleninou a domácím dipem",
       "price": "180 Kč"
     },
     {
-      "name": "Gnocchi s kuřecím masem, bazalková omáčka",
-      "price": "180 Kč"
+      "name": "Smažená mozzarella, vařené brambory, domácí remuláda",
+      "price": "175 Kč"
     }
   ],
-  "updated_at": "18.09.2026 14:19",
+  "updated_at": "21.09.2026 12:18",
   "found": true
 }
