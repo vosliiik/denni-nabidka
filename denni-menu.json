@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "day_label": null,
-  "soup": "Kachní vývar s masem a nudlemi",
+  "soup": "Kachní vývar s těstovinou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Cmunda po kaplicku",
-      "price": "187 Kč"
+      "name": "Hovězí steak na zelených fazolkách s anglickou slaninou",
+      "price": "319 Kč"
     },
     {
-      "name": "Vepřový steak, čedarová omáčka, opečené brambory",
+      "name": "Vepřová kapsa, plněná anglickou slaninou a sýrem, šťouchané brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí kousky, bazalková omáčka, hranolky",
+      "name": "Maďarské kuřecí nudličky, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Tortilla s kuřecím masem, zeleninou a domácím dipem",
-      "price": "180 Kč"
+      "name": "Uhlířské špagety s anglickou slaninou, vejci a smetanou, sýr",
+      "price": "177 Kč"
     },
     {
-      "name": "Smažená mozzarella, vařené brambory, domácí remuláda",
-      "price": "175 Kč"
+      "name": "Kuřecí řízek, vařené brambory, tatarská omáčka",
+      "price": "180 Kč"
     }
   ],
-  "updated_at": "21.09.2026 16:27",
+  "updated_at": "22.09.2026 11:33",
   "found": true
 }
