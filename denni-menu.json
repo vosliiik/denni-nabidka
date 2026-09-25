@@ -1,34 +1,30 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "day_label": null,
   "soup": "Masový vývar se zeleninou těstovinou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Gulášová",
-      "price": "48 Kč"
+      "name": "Pečený  losos s grilovanou zeleninou",
+      "price": "329 Kč"
     },
     {
-      "name": "Vepřová panenka, pepřovo-smetanová omáčka, šťouchané brambory",
+      "name": "Smetanové houbové rizoto s vepřovou panenkou, sýr",
       "price": "189 Kč"
     },
     {
-      "name": "Vepřový guláš, bramboráčky",
+      "name": "Vepřový steak, pepřovo-smetanová omáčka, šťouchané brambory",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Kuřecí směs, bramboráčky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažený  sýr v burger housce se zeleninou, hranolky, tatarská omáčka",
       "price": "185 Kč"
-    },
-    {
-      "name": "Vepřové výpečky, bramborový a houskový knedlík, zelí",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Kuřecí směs, rýže",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Kuřecí kapsa plněná šunkou, sýrem a červenou paprikou, hranolky",
-      "price": "180 Kč"
     }
   ],
-  "updated_at": "24.09.2026 14:50",
+  "updated_at": "25.09.2026 11:55",
   "found": true
 }
