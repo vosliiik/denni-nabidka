@@ -1,30 +1,38 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-28",
   "day_label": null,
-  "soup": "Masový vývar se zeleninou těstovinou",
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Pečený  losos s grilovanou zeleninou",
-      "price": "329 Kč"
+      "name": "Domácí bramboračka",
+      "price": "45 Kč"
     },
     {
-      "name": "Smetanové houbové rizoto s vepřovou panenkou, sýr",
+      "name": "Hovězí nudličky na slanině, rýže",
       "price": "189 Kč"
     },
     {
-      "name": "Vepřový steak, pepřovo-smetanová omáčka, šťouchané brambory",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Kuřecí směs, bramboráčky",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Smažený  sýr v burger housce se zeleninou, hranolky, tatarská omáčka",
+      "name": "Kuřecí plátek, bylinková omáčka, opečené brambory",
       "price": "185 Kč"
+    },
+    {
+      "name": "Vepřový steak s volským okem, cibulové kroužky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Smažené krůtí řízečky, bramborová kaše, okurka",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Masové kuličky v rajské omáčce, těstoviny",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Sýrový špíz (hermelín, niva, eidam)  v trojobalu, hranolky, tatarská omáčka",
+      "price": "180 Kč"
     }
   ],
-  "updated_at": "25.09.2026 14:54",
+  "updated_at": "28.09.2026 13:20",
   "found": true
 }
