@@ -1,34 +1,30 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
+  "soup_price": "45 Kč",
   "items": [
-    {
-      "name": "Frankfurtská",
-      "price": "45 Kč"
-    },
-    {
-      "name": "Hovězí maso ve znojemské omáčce, rýže",
-      "price": "189 Kč"
-    },
-    {
-      "name": "Ražniči z vepřové panenky s anglickou slaninou, hranolky",
-      "price": "189 Kč"
-    },
-    {
-      "name": "Vepřové maso na houbách, šťouchané brambory",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Kuřecí plátek, bylinková omáčka, opečené brambory",
-      "price": "180 Kč"
-    },
     {
       "name": "Domácí vepřová sekaná, bramborový salát",
       "price": "180 Kč"
+    },
+    {
+      "name": "Vepřový steak, švestková omáčka, šťouchané brambory",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Kuřecí kousky s pórkem ve smetanové omáčce, hranolky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Vepřové plátek na houbách, rýže",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Tortilla s kuřecím řízkem, zeleninou a domácí remuládou",
+      "price": "180 Kč"
     }
   ],
-  "updated_at": "29.09.2026 16:15",
+  "updated_at": "30.09.2026 12:49",
   "found": true
 }
