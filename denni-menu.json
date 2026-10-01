@@ -1,30 +1,34 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "day_label": null,
   "soup": "Vepřový vývar s těstovinou a zeleninou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Domácí vepřová sekaná, bramborový salát",
+      "name": "Pikantní vepřové nudličky, bramboráčky",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřový steak, švestková omáčka, šťouchané brambory",
+      "name": "Smažený vepřový řízek, bramborová kaše, okurka",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí kousky s pórkem ve smetanové omáčce, hranolky",
+      "name": "Cmunda po kaplicku",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Kuřecí kousky s žampiony a pórkem ve smetanové omáčce, bramborové lupínky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Kuřecí prsíčko, rokforová omáčka, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřové plátek na houbách, rýže",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Tortilla s kuřecím řízkem, zeleninou a domácí remuládou",
-      "price": "180 Kč"
+      "name": "Smažený camembert, vařené brambory, tatarská omáčka",
+      "price": "175 Kč"
     }
   ],
-  "updated_at": "30.09.2026 16:08",
+  "updated_at": "01.10.2026 13:15",
   "found": true
 }
