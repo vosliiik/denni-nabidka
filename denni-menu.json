@@ -1,34 +1,38 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "day_label": null,
-  "soup": "Vepřový vývar s těstovinou a zeleninou",
-  "soup_price": "45 Kč",
+  "soup": null,
+  "soup_price": null,
   "items": [
     {
-      "name": "Pikantní vepřové nudličky, bramboráčky",
+      "name": "Zelná s uzeným masem",
+      "price": "45 Kč"
+    },
+    {
+      "name": "Medailonky z vepřové panenky, houbový přeliv, šťouchané brambory",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Kuřecí roládička plněná šunkou, sýrem a červenou paprikou, bramborová kaše",
       "price": "180 Kč"
     },
     {
-      "name": "Smažený vepřový řízek, bramborová kaše, okurka",
+      "name": "Katův šleh, bramboráčky",
       "price": "180 Kč"
     },
     {
-      "name": "Cmunda po kaplicku",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Kuřecí kousky s žampiony a pórkem ve smetanové omáčce, bramborové lupínky",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Kuřecí prsíčko, rokforová omáčka, hranolky",
+      "name": "Přírodní vepřový steak, zelené fazolky s anglickou slaninou",
       "price": "180 Kč"
     },
     {
-      "name": "Smažený camembert, vařené brambory, tatarská omáčka",
-      "price": "175 Kč"
+      "name": "Pečené kuřecí stehno, bramborový knedlík, zelí",
+      "price": "179 Kč"
+    },
+    {
+      "name": "Smažená niva, vařené brambory, tatarská omáčka",
+      "price": "179 Kč"
     }
   ],
-  "updated_at": "01.10.2026 16:42",
+  "updated_at": "02.10.2026 12:48",
   "found": true
 }
