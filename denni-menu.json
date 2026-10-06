@@ -1,34 +1,30 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "day_label": null,
-  "soup": "Masový vývar se zeleninou těstovinou",
+  "soup": "Drůbeží vývar s nudlemi",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Brokolicový krém",
-      "price": "45 Kč"
+      "name": "Hovězí steak na pepři s přírodní šťávou, šťouchané brambory",
+      "price": "329 Kč"
     },
     {
-      "name": "Pečený losos gorbuša na bylinkách, vařené brambory, citron",
+      "name": "Hovězí dušené maso na česneku, rýže",
       "price": "189 Kč"
     },
     {
-      "name": "Masová pikantní směs, bramboráčky",
+      "name": "Pečené vepřové maso, bramborový knedlík, zelí",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřové kousky, švestková omáčka, bramborové placky",
-      "price": "180 Kč"
+      "name": "Míchaný zeleninový salátek, krůtí řízečky, česnekový dip",
+      "price": "185 Kč"
     },
     {
-      "name": "Kuřecí steak, chilli-medová omáčka, hranolky",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Smažený zauzený sýr, vařené brambory, tatarská omáčka",
-      "price": "180 Kč"
+      "name": "Gnochi s restovanou brokolicí na cibulce, sýr",
+      "price": "175 Kč"
     }
   ],
-  "updated_at": "05.10.2026 18:19",
+  "updated_at": "06.10.2026 13:36",
   "found": true
 }
