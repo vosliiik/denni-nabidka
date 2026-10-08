@@ -1,30 +1,38 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "day_label": null,
-  "soup": "Hovězí vývar s těstovinou a zeleninou",
+  "soup": "Česneková polévka, sýr",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Špikovaná vepřová panenka, přírodní přeliv, hranolky",
-      "price": "189 Kč"
+      "name": "Houbový krém s krutony",
+      "price": "39 Kč"
     },
     {
-      "name": "Kuřecí steak, dýňové pyré",
+      "name": "Krůtí nudličky s hořčicí a cibulí, opečené brambory",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Grilovaná krkovička, bramborový knedlík, špenát",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí čína, rýže",
+      "name": "Kuřecí steak se šunkou, broskví a sýrem, hranolky",
       "price": "180 Kč"
+    },
+    {
+      "name": "Dýňové rizoto s kuřecím masem, sýr",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Vepřová játra, vařené brambory, tatarská omáčka",
+      "price": "179 Kč"
     },
     {
       "name": "Pečené marinované kuřecí paličky, bramborová kaše",
       "price": "180 Kč"
-    },
-    {
-      "name": "Kašperská vepřová játra, bramboráčky",
-      "price": "180 Kč"
     }
   ],
-  "updated_at": "07.10.2026 16:41",
+  "updated_at": "08.10.2026 13:41",
   "found": true
 }
