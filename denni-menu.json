@@ -1,38 +1,38 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "day_label": null,
-  "soup": "Česneková polévka, sýr",
+  "soup": "Masový vývar se zeleninou těstovinou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Houbový krém s krutony",
-      "price": "39 Kč"
+      "name": "Brokolicový krém",
+      "price": "45 Kč"
     },
     {
-      "name": "Krůtí nudličky s hořčicí a cibulí, opečené brambory",
+      "name": "Kuřecí burger s domácí remuládou, zeleninou a sýrem, hranolky",
+      "price": "190 Kč"
+    },
+    {
+      "name": "Vepřový steak s liškovou omáčkou, hranolky",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Cmunda po kaplicku",
       "price": "185 Kč"
     },
     {
-      "name": "Grilovaná krkovička, bramborový knedlík, špenát",
+      "name": "Kuřecí kapsa plněná anglickou slaninou a mozzarellou, šťouchané brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí steak se šunkou, broskví a sýrem, hranolky",
-      "price": "180 Kč"
+      "name": "Krůtí nudličky s hořčicí a cibulí, bramborové lupínky",
+      "price": "185 Kč"
     },
     {
-      "name": "Dýňové rizoto s kuřecím masem, sýr",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Vepřová játra, vařené brambory, tatarská omáčka",
-      "price": "179 Kč"
-    },
-    {
-      "name": "Pečené marinované kuřecí paličky, bramborová kaše",
+      "name": "Domácí bramborový salát, kuřecí řízek",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "08.10.2026 16:49",
+  "updated_at": "09.10.2026 13:34",
   "found": true
 }
