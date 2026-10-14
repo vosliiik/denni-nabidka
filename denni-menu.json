@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "day_label": null,
-  "soup": "Hovězí vývar s těstovinou a zeleninou",
+  "soup": "Vepřový vývar s těstovinou a zeleninou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Segedínský guláš, domácí houskový knedlík",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Smažená treska s brokolicí, vařené brambory, citron",
+      "name": "Rozlítaný španělský ptáček, jasmínová rýže",
       "price": "189 Kč"
     },
     {
-      "name": "Kuřecí kousky ve smetanovosýrové omáčce, opečené brambory",
+      "name": "Kuřecí steak se šunkou a sýrem, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřový plátek s omáčkou z anglické slaniny, rýže",
+      "name": "Vepřová kapsa plněná párkem, paprikou a anglickou slaninou, šťouchané brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Smažené žampiony, hranolky, tatarská omáčka",
-      "price": "177 Kč"
+      "name": "Domácí plněné bramborové knedlíky uzeným masem, zelí, cibulka",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažený sýr, vařené brambory, tatarská omáčka",
+      "price": "180 Kč"
     }
   ],
-  "updated_at": "13.10.2026 17:13",
+  "updated_at": "14.10.2026 11:50",
   "found": true
 }
