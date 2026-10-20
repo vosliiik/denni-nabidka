@@ -1,34 +1,42 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "day_label": null,
   "soup": null,
   "soup_price": null,
   "items": [
     {
+      "name": "Houbový krém s krutony",
+      "price": "45 Kč"
+    },
+    {
       "name": "Domácí bramboračka",
       "price": "45 Kč"
     },
     {
-      "name": "Pečené kachní stehýnko, bramborový knedlík, zelí",
-      "price": "190 Kč"
-    },
-    {
-      "name": "Řízečky z panenky, domácí bramborový salát",
+      "name": "Svíčková na smetaně, houskový knedlík, citron, smetana, brusinky",
       "price": "189 Kč"
     },
     {
-      "name": "Vepřová krkovička na žampionech, rýže",
+      "name": "Medailonky z vepřové panenky, brusinkový přeliv, šťouchané brambory",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Vepřový guláš, bramboráčky",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí steak se šunkou, broskví a sýrem, hranolky",
+      "name": "Pikantní vepřová směs, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Smažené rybí filé, vařené brambory, zeleninová obloha",
-      "price": "175 Kč"
+      "name": "Vepřové výpečky, bramborový knedlík, zelí",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažené žampiony, vařené brambory, tatarská omáčka",
+      "price": "177 Kč"
     }
   ],
-  "updated_at": "19.10.2026 16:54",
+  "updated_at": "20.10.2026 11:43",
   "found": true
 }
