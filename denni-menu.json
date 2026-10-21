@@ -1,42 +1,34 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
+  "soup": "Drůbeží vývar s těstovinou",
+  "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Houbový krém s krutony",
-      "price": "45 Kč"
-    },
-    {
-      "name": "Domácí bramboračka",
-      "price": "45 Kč"
-    },
-    {
-      "name": "Svíčková na smetaně, houskový knedlík, citron, smetana, brusinky",
+      "name": "Hovězí maso na česneku, bramborový knedlík, špenát",
       "price": "189 Kč"
     },
     {
-      "name": "Medailonky z vepřové panenky, brusinkový přeliv, šťouchané brambory",
+      "name": "Hovězí  Stroganov, rýže",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Vepřové maso na houbách, šťouchané brambory",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Kuřecí čína, batátové hranolky",
       "price": "185 Kč"
     },
     {
-      "name": "Vepřový guláš, bramboráčky",
+      "name": "Kuřecí kapsa plněná šunkou a sýrem, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Pikantní vepřová směs, hranolky",
+      "name": "Smažený sýr, vařené brambory, tatarská omáčka",
       "price": "180 Kč"
-    },
-    {
-      "name": "Vepřové výpečky, bramborový knedlík, zelí",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Smažené žampiony, vařené brambory, tatarská omáčka",
-      "price": "177 Kč"
     }
   ],
-  "updated_at": "20.10.2026 14:53",
+  "updated_at": "21.10.2026 11:44",
   "found": true
 }
