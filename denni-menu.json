@@ -1,34 +1,42 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "day_label": null,
   "soup": "Drůbeží vývar s těstovinou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Hovězí maso na česneku, bramborový knedlík, špenát",
-      "price": "189 Kč"
-    },
-    {
       "name": "Hovězí  Stroganov, rýže",
       "price": "189 Kč"
     },
     {
-      "name": "Vepřové maso na houbách, šťouchané brambory",
-      "price": "180 Kč"
+      "name": "Vepřová panenka, pepřová omáčka, šťouchané  brambory",
+      "price": "189 Kč"
     },
     {
       "name": "Kuřecí čína, batátové hranolky",
       "price": "185 Kč"
     },
     {
-      "name": "Kuřecí kapsa plněná šunkou a sýrem, hranolky",
+      "name": "Kuřecí steak, grilovaná zelenina",
       "price": "180 Kč"
     },
     {
-      "name": "Smažený sýr, vařené brambory, tatarská omáčka",
-      "price": "180 Kč"
+      "name": "Smažený hermelín plněný šunkou, hranolky, tatarská omáčka",
+      "price": "179 Kč"
+    },
+    {
+      "name": "Čočka s klobásou, volské oko, okurka",
+      "price": "179 Kč"
+    },
+    {
+      "name": "Čočka, volská oka, kyselá okurka",
+      "price": "159 Kč"
+    },
+    {
+      "name": "Dukátové buchtičky s vanilkovým krémem",
+      "price": "159 Kč"
     }
   ],
-  "updated_at": "21.10.2026 15:07",
+  "updated_at": "22.10.2026 11:44",
   "found": true
 }
