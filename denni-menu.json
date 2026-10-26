@@ -1,34 +1,34 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-26",
   "day_label": null,
-  "soup": "Uzený vývar s kroupami",
+  "soup": "Masový vývar se zeleninou těstovinou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Hovězí v rajské omáčce, těstoviny",
+      "name": "Dýňová s krutony",
+      "price": "45 Kč"
+    },
+    {
+      "name": "Pečený losos gorbuša na bylinkovém másle, vařené brambory, citron",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Řízečky z panenky, domácí bramborový salát",
       "price": "185 Kč"
     },
     {
-      "name": "Pečená krůtí palička, bramborová kaše, zeleninová obloha",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Kuřecí steak s mozzarellou a rajčaty, hranolky",
+      "name": "Segedínský guláš, domácí houskový knedlík",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřová směs v bramborákové kapse",
+      "name": "Vepřový steak s volským okem, cibulové kroužky",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřový guláš, houskový knedlík",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Vepřové výpečky, bramborový knedlík, zelí",
+      "name": "Kuřecí plátek, rokforová omáčka, opečené brambory",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "23.10.2026 14:47",
+  "updated_at": "26.10.2026 12:39",
   "found": true
 }
