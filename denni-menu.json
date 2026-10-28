@@ -1,34 +1,34 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "day_label": null,
-  "soup": "Masový vývar se zeleninou těstovinou",
-  "soup_price": "45 Kč",
+  "soup": null,
+  "soup_price": null,
   "items": [
     {
       "name": "Kulajda s hříbky",
       "price": "49 Kč"
     },
     {
-      "name": "Medailonky z vepřové panenky, švestková omáčka, hranolky",
+      "name": "Filet ze pstruha na bylinkách, grilovaná zelenina",
       "price": "189 Kč"
     },
     {
-      "name": "Kuřecí Cordon bleu, bramborová kaše",
-      "price": "180 Kč"
+      "name": "Ražniči z vepřové panenky s anglickou slaninou, šťouchané brambory",
+      "price": "189 Kč"
     },
     {
-      "name": "Domácí plněné bramborové knedlíky uzeným masem, zelí, cibulka",
-      "price": "180 Kč"
+      "name": "Špikované kuřecí prsíčko, čedarová omáčka, opečené brambory",
+      "price": "187 Kč"
     },
     {
-      "name": "Segedínský guláš, domácí houskový knedlík",
-      "price": "180 Kč"
+      "name": "Pečená vepřová krkovice, bramborový a houskový knedlík, zelí",
+      "price": "185 Kč"
     },
     {
-      "name": "Smažené duo sýry (camembert a eidam)vařené brambory, tatarská omáčka",
-      "price": "175 Kč"
+      "name": "Špagety s hovězím ragú, sypané sýrem",
+      "price": "185 Kč"
     }
   ],
-  "updated_at": "27.10.2026 15:29",
+  "updated_at": "28.10.2026 12:54",
   "found": true
 }
