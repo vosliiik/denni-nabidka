@@ -1,34 +1,30 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
+  "soup": "Masový vývar se zeleninou těstovinou",
+  "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Kulajda s hříbky",
-      "price": "49 Kč"
-    },
-    {
-      "name": "Filet ze pstruha na bylinkách, grilovaná zelenina",
+      "name": "Rozlítaný španělský ptáček, jasmínová rýže",
       "price": "189 Kč"
     },
     {
-      "name": "Ražniči z vepřové panenky s anglickou slaninou, šťouchané brambory",
-      "price": "189 Kč"
+      "name": "Přírodní vepřový steak, zelené fazolky s anglickou slaninou",
+      "price": "180 Kč"
     },
     {
-      "name": "Špikované kuřecí prsíčko, čedarová omáčka, opečené brambory",
-      "price": "187 Kč"
-    },
-    {
-      "name": "Pečená vepřová krkovice, bramborový a houskový knedlík, zelí",
+      "name": "Vepřová směs, bramboráčky",
       "price": "185 Kč"
     },
     {
-      "name": "Špagety s hovězím ragú, sypané sýrem",
-      "price": "185 Kč"
+      "name": "Špagety s krevetkami a sušenými rajčaty ve smetanovo-sýrové omáčce",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažená mozzarella, vařené brambory, domácí tatarská omáčka",
+      "price": "175 Kč"
     }
   ],
-  "updated_at": "28.10.2026 16:21",
+  "updated_at": "29.10.2026 13:11",
   "found": true
 }
