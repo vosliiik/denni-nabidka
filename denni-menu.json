@@ -1,30 +1,9 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "day_label": null,
-  "soup": "Drůbeží vývar s těstovinou",
-  "soup_price": "45 Kč",
-  "items": [
-    {
-      "name": "Vepřová líčka na česneku, šťouchané brambory",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Krůtí maso na pórku, hranolky",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Domácí plněné bramborové knedlíky uzeným masem, zelí, cibulka",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Kuřecí plátek na houbách, těstoviny",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Smažený sýr, vařené brambory, tatarská omáčka",
-      "price": "180 Kč"
-    }
-  ],
-  "updated_at": "30.10.2026 16:28",
-  "found": true
+  "soup": null,
+  "soup_price": null,
+  "items": [],
+  "updated_at": "02.11.2026 14:57",
+  "found": false
 }
