@@ -1,9 +1,30 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "02.11.2026 19:22",
-  "found": false
+  "soup": "Kuřecí vývar s těstovinou",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Hovězí burger s volským okem, čedarem a zeleninou, hranolky",
+      "price": "239 Kč"
+    },
+    {
+      "name": "Pečený losos, vařené brambory, citron",
+      "price": "279 Kč"
+    },
+    {
+      "name": "Vepřová panenka, lišková omáčka, šťouchané brambory",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Pečené uzené maso, bramborový knedlík, špenát",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Drůbeží rizoto, sypané sýrem, kyselá okurka",
+      "price": "175 Kč"
+    }
+  ],
+  "updated_at": "03.11.2026 14:30",
+  "found": true
 }
