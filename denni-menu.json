@@ -1,34 +1,38 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "day_label": null,
-  "soup": "Drůbeží vývar s těstovinou",
-  "soup_price": "45 Kč",
+  "soup": "Silný husí vývar s knedlíčky a nudlemi",
+  "soup_price": "59 Kč",
   "items": [
     {
-      "name": "Květákový krém",
-      "price": "45 Kč"
+      "name": "Restovaná husí jatýrka, karamelizovaná cibulka, opečený toust",
+      "price": "139 Kč"
     },
     {
-      "name": "Telecí guláš, bramborový knedlík",
-      "price": "219 Kč"
+      "name": "Svatomartinská pečená husí čtvrtka, červené a bílé zelí, tři druhy knedlíků",
+      "price": "449 Kč"
     },
     {
-      "name": "Řízečky z vepřové panenky, bramborová kaše",
-      "price": "189 Kč"
+      "name": "Konfitované husí prsíčko s červeným vínem a švestkami, bramborové knedlíčky",
+      "price": "429 Kč"
     },
     {
-      "name": "Kuřecí steak s brusinkami a hermelínem, bramborové lupínky",
-      "price": "189 Kč"
+      "name": "Špikovaná vepřová krkovička, bramboráčky, zelí",
+      "price": "180 Kč"
     },
     {
-      "name": "Bramboráčky s uzeným masem, zelí",
-      "price": "185 Kč"
+      "name": "Kuřecí kapsa plněná šunkou, sýrem a červenou paprikou, šťouchané brambory",
+      "price": "180 Kč"
     },
     {
-      "name": "Vepřový plátek na slanině, rýže",
+      "name": "Pikantní vepřová směs, hranolky",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Míchaný zeleninový salátek, krůtí řízečky, tatarská omáčka",
       "price": "185 Kč"
     }
   ],
-  "updated_at": "10.11.2026 17:43",
+  "updated_at": "11.11.2026 14:18",
   "found": true
 }
