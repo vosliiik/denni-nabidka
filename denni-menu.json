@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "day_label": null,
   "soup": "Silný husí vývar s knedlíčky a nudlemi",
   "soup_price": "59 Kč",
@@ -17,7 +17,7 @@
       "price": "429 Kč"
     },
     {
-      "name": "Špikovaná vepřová krkovička, bramboráčky, zelí",
+      "name": "Pikantní vepřová směs, hranolky",
       "price": "180 Kč"
     },
     {
@@ -25,14 +25,14 @@
       "price": "180 Kč"
     },
     {
-      "name": "Pikantní vepřová směs, hranolky",
+      "name": "Krůtí maso na pórku, rýže",
       "price": "180 Kč"
     },
     {
-      "name": "Míchaný zeleninový salátek, krůtí řízečky, tatarská omáčka",
-      "price": "185 Kč"
+      "name": "Pečená jitrnice, vařené brambory, hořčice, zelí",
+      "price": "179 Kč"
     }
   ],
-  "updated_at": "11.11.2026 17:34",
+  "updated_at": "12.11.2026 15:27",
   "found": true
 }
