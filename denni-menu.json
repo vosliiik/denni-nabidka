@@ -1,38 +1,34 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "day_label": null,
   "soup": "Silný husí vývar s knedlíčky a nudlemi",
   "soup_price": "59 Kč",
   "items": [
     {
-      "name": "Restovaná husí jatýrka, karamelizovaná cibulka, opečený toust",
-      "price": "139 Kč"
+      "name": "Houbový krém s krutony",
+      "price": "45 Kč"
     },
     {
-      "name": "Svatomartinská pečená husí čtvrtka, červené a bílé zelí, tři druhy knedlíků",
-      "price": "449 Kč"
+      "name": "Pečené kachní stehýnko, bramborový a houskový knedlík, zelí",
+      "price": "209 Kč"
     },
     {
-      "name": "Konfitované husí prsíčko s červeným vínem a švestkami, bramborové knedlíčky",
-      "price": "429 Kč"
+      "name": "Krůtí řízečky, bramborová kaše",
+      "price": "185 Kč"
     },
     {
-      "name": "Pikantní vepřová směs, hranolky",
+      "name": "Kuřecí plátek, bylinková omáčka, opečené brambory",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí kapsa plněná šunkou, sýrem a červenou paprikou, šťouchané brambory",
+      "name": "Vepřový steak s volským okem, cibulové kroužky",
       "price": "180 Kč"
     },
     {
-      "name": "Krůtí maso na pórku, rýže",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Pečená jitrnice, vařené brambory, hořčice, zelí",
-      "price": "179 Kč"
+      "name": "Míchaný zelenionový salát, smažené kousky hermelínu, chilli dip",
+      "price": "185 Kč"
     }
   ],
-  "updated_at": "12.11.2026 18:08",
+  "updated_at": "13.11.2026 14:43",
   "found": true
 }
