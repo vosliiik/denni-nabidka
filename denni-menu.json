@@ -1,34 +1,42 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "day_label": null,
-  "soup": "Silný husí vývar s knedlíčky a nudlemi",
-  "soup_price": "59 Kč",
+  "soup": "Kuřecí vývar s těstovinou",
+  "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Houbový krém s krutony",
-      "price": "45 Kč"
+      "name": "Burger s trhaným husím masem, karamelizovaná cibulka, domácí remuláda, zelenina, hranolky",
+      "price": "269 Kč"
     },
     {
-      "name": "Pečené kachní stehýnko, bramborový a houskový knedlík, zelí",
-      "price": "209 Kč"
+      "name": "Vepřový steak, pepřovo-smetanová omáčka, šťouchané brambory",
+      "price": "187 Kč"
     },
     {
-      "name": "Krůtí řízečky, bramborová kaše",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Kuřecí plátek, bylinková omáčka, opečené brambory",
+      "name": "Kuřecí špíz s cuketou,cibulí, paprikou a slaninou, hranolky",
       "price": "180 Kč"
     },
     {
-      "name": "Vepřový steak s volským okem, cibulové kroužky",
+      "name": "Krůtí maso na pórku, rýže",
       "price": "180 Kč"
     },
     {
-      "name": "Míchaný zelenionový salát, smažené kousky hermelínu, chilli dip",
-      "price": "185 Kč"
+      "name": "Špikovaná vepřová krkovice, bramborový knedlík, zelí",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Malinový Red Velvet",
+      "price": "85 Kč"
+    },
+    {
+      "name": "Čokoládový dort",
+      "price": "85 Kč"
+    },
+    {
+      "name": "Medovník",
+      "price": "63 Kč"
     }
   ],
-  "updated_at": "13.11.2026 17:37",
+  "updated_at": "16.11.2026 15:15",
   "found": true
 }
