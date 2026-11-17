@@ -1,42 +1,38 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "day_label": null,
   "soup": "Kuřecí vývar s těstovinou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Burger s trhaným husím masem, karamelizovaná cibulka, domácí remuláda, zelenina, hranolky",
-      "price": "269 Kč"
+      "name": "Česneková polévka, sýr",
+      "price": "45 Kč"
     },
     {
-      "name": "Vepřový steak, pepřovo-smetanová omáčka, šťouchané brambory",
-      "price": "187 Kč"
+      "name": "Přírodní hovězí steak na rozmarýnu, opečené česnekové brambory",
+      "price": "319 Kč"
     },
     {
-      "name": "Kuřecí špíz s cuketou,cibulí, paprikou a slaninou, hranolky",
+      "name": "Filet ze pstruha na bylinkách, grilovaná zelenina",
+      "price": "219 Kč"
+    },
+    {
+      "name": "Vepřová směs, bramboráčky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Maďarské kuřecí kousky, hranolky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Smažený vepřový řízek, domácí bramborový salát",
       "price": "180 Kč"
     },
     {
-      "name": "Krůtí maso na pórku, rýže",
+      "name": "Smažený sýr, vařené brambory, tatarská omáčka",
       "price": "180 Kč"
-    },
-    {
-      "name": "Špikovaná vepřová krkovice, bramborový knedlík, zelí",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Malinový Red Velvet",
-      "price": "85 Kč"
-    },
-    {
-      "name": "Čokoládový dort",
-      "price": "85 Kč"
-    },
-    {
-      "name": "Medovník",
-      "price": "63 Kč"
     }
   ],
-  "updated_at": "16.11.2026 19:19",
+  "updated_at": "17.11.2026 15:59",
   "found": true
 }
