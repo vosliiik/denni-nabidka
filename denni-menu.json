@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "day_label": null,
   "soup": "Kuřecí vývar s těstovinou",
   "soup_price": "45 Kč",
@@ -9,26 +9,30 @@
       "price": "49 Kč"
     },
     {
-      "name": "Špikovaná vepřová panenka, přírodní přeliv, šťouchané brambory",
+      "name": "Zelná s kolbásou",
+      "price": "45 Kč"
+    },
+    {
+      "name": "Svíčková na smetaně, houskový knedlík, citron, smetana, brusinky",
+      "price": "193 Kč"
+    },
+    {
+      "name": "Vepřová panenka na česneku a smetaně, opečené brambory",
       "price": "189 Kč"
     },
     {
-      "name": "Vepřové plátek na houbách, rýže",
+      "name": "Vepřové plátek na žampionech, rýže",
       "price": "180 Kč"
     },
     {
-      "name": "Kuřecí steak se šunkou, broskví a sýrem, hranolky",
-      "price": "185 Kč"
+      "name": "Domácí bramborový salát, kuřecí řízek",
+      "price": "180 Kč"
     },
     {
       "name": "Vinná klobása, bramborová kaše",
       "price": "180 Kč"
-    },
-    {
-      "name": "Smažený hermelín plněný šunkou, vařené brambory, tatarská omáčka",
-      "price": "179 Kč"
     }
   ],
-  "updated_at": "18.11.2026 18:40",
+  "updated_at": "19.11.2026 16:01",
   "found": true
 }
