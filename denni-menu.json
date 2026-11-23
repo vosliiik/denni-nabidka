@@ -1,30 +1,9 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-23",
   "day_label": null,
-  "soup": "Uzený vývar s těstovinou",
-  "soup_price": "45 Kč",
-  "items": [
-    {
-      "name": "Kuřecí prsíčko, čedarová omáčka, hranolky",
-      "price": "185 Kč"
-    },
-    {
-      "name": "Cmunda po kaplicku",
-      "price": "189 Kč"
-    },
-    {
-      "name": "Vepřový steak s přírodním přelivem, šťouchané brambory",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Vepřová játra na slanině, bramboráčky",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Smažený camembert, vařené brambory, tatarská omáčka",
-      "price": "180 Kč"
-    }
-  ],
-  "updated_at": "20.11.2026 18:18",
-  "found": true
+  "soup": null,
+  "soup_price": null,
+  "items": [],
+  "updated_at": "23.11.2026 17:31",
+  "found": false
 }
