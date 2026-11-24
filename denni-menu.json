@@ -1,9 +1,46 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "day_label": null,
-  "soup": null,
-  "soup_price": null,
-  "items": [],
-  "updated_at": "23.11.2026 21:25",
-  "found": false
+  "soup": "Česneková polévka, sýr",
+  "soup_price": "45 Kč",
+  "items": [
+    {
+      "name": "Krém z červené řepy, krutony",
+      "price": "45 Kč"
+    },
+    {
+      "name": "Hovězí guláš, houskový knedlík",
+      "price": "189 Kč"
+    },
+    {
+      "name": "Řízečky z panenky, bramborová kaše",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Vepřový plátek, pepřová omáčka, opečené brambory",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Kuřecí steak s mozzarellou a rajčaty, hranolky",
+      "price": "185 Kč"
+    },
+    {
+      "name": "Gnocchi s kuřecím masem ve smetanové omáčce, špenátem",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Čokoládový dort",
+      "price": "85 Kč"
+    },
+    {
+      "name": "Malinový Red Velvet",
+      "price": "85 Kč"
+    },
+    {
+      "name": "Medovník",
+      "price": "63 Kč"
+    }
+  ],
+  "updated_at": "24.11.2026 17:25",
+  "found": true
 }
