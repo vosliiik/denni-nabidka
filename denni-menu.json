@@ -1,34 +1,30 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "day_label": null,
   "soup": "Uzený vývar s těstovinou",
   "soup_price": "45 Kč",
   "items": [
     {
-      "name": "Krém z červené řepy, krutony",
-      "price": "45 Kč"
+      "name": "Vepřová panenka, švestková omáčka, šťouchané brambory",
+      "price": "189 Kč"
     },
     {
-      "name": "Pečený losos, restované zelené fazolky",
-      "price": "289 Kč"
-    },
-    {
-      "name": "Vepřové kousky s žampiony, rýže",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Vepřový steak s volským okem, cibulové kroužky",
-      "price": "180 Kč"
-    },
-    {
-      "name": "Kuřecí směs, bramboráčky",
+      "name": "Vepřová kapsa, plněná anglickou slaninou a sýrem, hranolky",
       "price": "185 Kč"
     },
     {
-      "name": "Smažený čedar, vařené brambory, tatarská omáčka",
+      "name": "Tortilla s kuřecím řízkem, zeleninou a domácí remuládou",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Smažený vepřový řízek, domácí bramborový salát",
+      "price": "180 Kč"
+    },
+    {
+      "name": "Uhlířské špagety s anglickou slaninou, vejci a smetanou, sýr",
       "price": "180 Kč"
     }
   ],
-  "updated_at": "25.11.2026 20:07",
+  "updated_at": "26.11.2026 16:36",
   "found": true
 }
